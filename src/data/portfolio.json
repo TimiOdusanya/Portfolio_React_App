@@ -1,0 +1,22 @@
+{
+  "portfolio": [
+    {
+      "img": "/portfolio/Pizza/pizzaHub.jpeg",
+      "title": "Pizza Delivery Web App",
+      "description": "A web app designed to allow users to order pizzas and have them delivered to their location. The app includes features such as payment integration, user authentication, and authorization.",
+      "url": "https://github.com/TimiOdusanya/Pizza_Delivery_Web_App"
+    },
+    {
+      "img": "/portfolio/Pizza/clothesApp.jpeg",
+      "title": "Fash By Stiles",
+      "description": "Fash by Stiles is an online clothing store that specializes in offering the latest fashion trends for men ",
+      "url": "http://google.com"
+    },
+    {
+      "img": "/portfolio/Pizza/agric_project.jpeg",
+      "title": "Grow iT",
+      "description": "An online platform designed to connect farmers and buyers, ",
+      "url": "https://growitapp.netlify.app/"
+    }
+  ]
+}
